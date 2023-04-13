@@ -10,3 +10,4 @@ The project is a Restful API for an Inventory Management System. It is a simple 
 2. Open the cloned repository in Visual Studio Code or another code editor.
 3. Open a terminal in the root directory of the project and run the command `dotnet run` to start the API.
 4. The API should now be accessible at `http://localhost:5000/api/parts` in a web browser or via an API client like [Postman](https://www.postman.com)
+5. The code resides in `Program.cs`
