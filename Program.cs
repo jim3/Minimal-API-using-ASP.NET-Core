@@ -74,7 +74,7 @@ app.MapDelete("/api/parts/{partname}", (string partname) => {
     }
 
     parts = parts.Where(p => p.Name != partname).ToArray(); // Remove the part from the array
-    return Results.Json(part);     // Return the deleted part as JSON
+    return Results.Ok();
 });
 
 app.Run();
