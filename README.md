@@ -2,7 +2,7 @@
 
 ### Description
 
-The project is a Restful API for an Inventory Management System. It is a simple inventory management system that allows users to create, read, update, and delete items in inventory. It is written in C# and uses the .NET Core framework. Like the Flask (and Go) project, this project was created to see how different each of the frameworks were to work with. In the end, they are a fairly similar, at least on a basic level. Suprisingly, as much as I've grown to like JavaScript, I think I like C# a bit more. It's a very clean language, has proper classes (👏🏻) and it's strongly typed, which I have a preference for. I am now curious how it handles asynchronous code. I think I'll be using C# more in the future.
+The project is a Restful API for an Inventory Management System. It is a simple inventory management system that allows users to create, read, update, and delete items in inventory. It is written in C# and uses the .NET Core framework. Like the Flask (and Go) project, this project was created to see how different each of the frameworks were to work with. In the end, they are a fairly similar, at least on a basic level. Suprisingly, as much as I've grown to like JavaScript, I think I like C# a bit more. It's a very clean language, has proper classes (👏🏻) and it's strongly typed, which I have a preference for. I am now curious how it handles asynchronous code. If I had the time and could learn an additional tech stack, along with my current one (Node/Express) I would love to learn more about C#/.NET. I think I'll be using C# more in the future though...
 
 #### Installation (assuming you have .NET Core installed, this app uses `dotnet --version 7.0.105`)
 
